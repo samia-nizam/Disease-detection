@@ -1,2 +1,2 @@
-# Disease-detection
-499 B
+#MEDGPT- Disease Detection with Reasoning
+CSE 499B
